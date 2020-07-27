@@ -1,2 +1,2 @@
 # hello-worls
-hello worls repository
+hello world repository
